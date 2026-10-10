@@ -1,0 +1,5 @@
+review_id,reviewer_id,reviewer_name,profile_url,business_id,rating,text,published_at,timestamp_precision,source_url
+h1,a1,Pat,https://maps.example/contrib/a1,dest-y,5,Wonderful.,2026-09-03,,https://maps.example/review/h1
+h2,a2,Pat,https://maps.example/contrib/a2,dest-y,5,Wonderful!,2026-09-04,,https://maps.example/review/h2
+h3,a3,Kim,https://maps.example/contrib/a3,dest-y,5,Nice.,2026-06,,https://maps.example/review/h3
+h4,a3,Kim,https://maps.example/contrib/a3,dest-z,3,Ok.,2025-12-01,,https://maps.example/review/h4

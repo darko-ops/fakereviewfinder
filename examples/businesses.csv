@@ -1,0 +1,4 @@
+business_id,id_type,name,address,latitude,longitude,category,source_url
+seed-x,place_id,Example Seed Cafe,1 First St,40.0,-73.0,Cafe,https://maps.example/seed-x
+dest-y,place_id,Example Tire Shop,9 Ninth St,40.5,-73.5,Tire shop,https://maps.example/dest-y
+dest-z,place_id,Example Bakery,2 Second St,40.0,-73.01,Bakery,https://maps.example/dest-z

@@ -1,0 +1,16 @@
+[project]
+name = "reviewcrossover"
+version = "0.1.0"
+description = "Find businesses that share reviewers with a seed business, with traceable evidence"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+reviewcrossover = "reviewcrossover.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["reviewcrossover"]

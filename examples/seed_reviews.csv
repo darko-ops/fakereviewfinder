@@ -1,0 +1,5 @@
+review_id,reviewer_id,reviewer_name,profile_url,business_id,rating,text,published_at,timestamp_precision,source_url
+s1,a1,Pat,https://maps.example/contrib/a1,seed-x,5,Lovely.,2026-09-01,,https://maps.example/review/s1
+s2,a2,Pat,https://maps.example/contrib/a2,seed-x,5,Great.,2026-09-02,,https://maps.example/review/s2
+s3,a3,Kim,https://maps.example/contrib/a3,seed-x,4,Good.,3 weeks ago,relative,https://maps.example/review/s3
+s4,a4,Lee,https://maps.example/contrib/a4,seed-x,5,Fine.,2026-09-04,,https://maps.example/review/s4
